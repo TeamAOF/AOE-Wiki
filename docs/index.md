@@ -26,7 +26,7 @@ Here you can find information about our packs, tips, and how-to's for in-game an
     ??? note "Less Easy at first, but then Easy, for larger work:"
         - Clone your fork locally
         - Install mkdocs-material
-        - Use `mkdoks serve`
+        - Use `mkdokcs serve`
             1. Open `localhost:8000`
             2. Site refreshes on every document save.
         - Push to your fork and PR as normal
