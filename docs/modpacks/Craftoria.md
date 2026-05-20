@@ -89,6 +89,15 @@ To find the items in the blacklist for both the Replicator Mk1 and the Replicato
 * `#replicator_1_blacklist` for Replicator Mk1
 * `#replicator_blacklist` for Replicator Mk2
 
+#### Mobs Catching/Pickup Items 
+* Occultism: Soul Gem
+* Just Dire Things: Creature Catcher
+* Apotheosis: Ender Lead
+* Shrink: Glass Bottle + Personal Shrinking Device
+* Industrial Forgoing: Mob Imprisonment Tool
+* Ars Nouveou: Containment Jars or Warp Scroll + Blink Spell
+* Reliquified Twilight Forest: Deer Antler
+
 ### Whitelisting on our Official Servers
 
 1. Read the [#whitelisting](https://discord.com/channels/570630340075454474/726536593136943204) channel on our discord, in it's entirety.
