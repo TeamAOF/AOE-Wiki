@@ -70,7 +70,42 @@ If their **home** is an inventory, they will also automatically stop harvesting 
 
 ### [*Ars.Guide*](https://ars.guide/)
 ### [*Ars Nouveau* Wiki](https://www.arsnouveau.wiki/)
+### [*Ars Discord*](https://discord.gg/b2JPdSRt)
 
+<br/>
+
+Projectile + Pull (can work to pickup flawless budding certus)
+
+<br/>
+??? note "Creation Spells"
+    <div align="left">
+    DISCLAIMER: Assume that ALL the sequences REQUIRE a Block Shaper Focus, unless proven otherwise. It is on you if you don’t heed my warning. 
+
+    Let’s all scramble together to find all the block we can possibly create out of mana/source and share their glyph sequence to the world !
+
+    If you found a new glyph sequence and wanna share, just post it in the comments.
+
+    All mods, be it base Ars, addons or otherwise can be shared, as long as it was ENTIRELY made using glyphs, or is relevant enough.
+
+    Dirt: conjure terrain  
+    Sand: conjure terrain + crush   
+    Glass: conjure terrain + crush + smelt  
+    Cobblestone: conjure terrain + amplify   
+    Sandstone: conjure terrain + amplify + crush   
+    Smooth sandstone: conjure terrain + amplify + crush smelt   
+    Stone: conjure terrain + amplify smelt   
+    Smooth stone: conjure terrain + amplify + smelt + smelt   
+    Gravel: conjure terrain + amplify + smelt + crush   
+    Cobbled deepslate: conjure terrain + amplify + amplify   
+    Deepslate: conjure terrain + amplify + amplify + smelt   
+
+    Water:  conjure_water   
+    Ice:  conjure_water + freeze   
+    Packed ice:  conjure_water + freeze + freeze   
+    Blue ice:  conjure_water + freeze + freeze + freeze   
+    Mud: conjure terrain + conjure_water   
+    Clay: conjure terrain + conjure_water + evaporate   
+    </div>
 <br/>
 
 ??? note "A special message from Qther, resident Ars shill, and generous contributor of these tips:"

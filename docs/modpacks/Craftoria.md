@@ -24,11 +24,14 @@
 
 === "[Kmbles](https://www.youtube.com/@kmbles)"
     <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=qyX0REsoTIV9njvA&amp;list=PLf-9vmpCe61pConmM7Qla18UIck-avHkV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+=== "[ArcticJakal](https://www.youtube.com/@ArcticJakal)"
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=DEKRhqpdmvfAhsaR&amp;list=PLsl9hyblySdKeqzcfEZs1_r3A-EfZnheM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </center>
 
 ## Craftoria FAQ
 
-### Setup / Performance
+### [Java/Performance](/AOE-Wiki/performance/)
 
 * Use Java 21
 * ~8GB RAM (too much invites longer GC pauses)
@@ -42,10 +45,11 @@ Dimensions!
 #### Major Dimensions
 
 1. Vanilla: Overworld, Nether, and The End
-2. The Bumblezone
-3. Eternal Starlight
-4. Deeper & Darker: The Otherside
-5. Twilight Forest
+2. The Bumblezone  <sub> [Curseforge](https://www.curseforge.com/minecraft/mc-mods/the-bumblezone-forge) | [Wiki](https://github.com/TelepathicGrunt/Bumblezone/wiki)</sub>
+3. Eternal Starlight <sub> [Curseforge](https://www.curseforge.com/minecraft/mc-mods/eternal-starlight) | [Discord](https://discord.gg/xFAJDngm5T)  </sub>
+4. Deeper & Darker: The Otherside <sub> [Curseforge](https://www.curseforge.com/minecraft/mc-mods/deeperdarker) | [Wiki](https://github.com/KyaniteMods/DeeperAndDarker/wiki) | [Discord](https://discord.gg/GDNRd5yvxa)  </sub>
+5. Twilight Forest <sub> [Curseforge](https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest) | [Discord](https://discord.gg/HyFyevu)</sub>
+<!-- All links by me were checked before linking, all link to stuff I found on curseforge page -->  
 
 #### Utility Dimensions
 
@@ -57,7 +61,7 @@ Dimensions!
 ### Other FAQ
 
 #### Team chat
-Team chat is bound to `u` by default. (`y` in earlier versions). If no one can see your messages, you may have this toggled on.
+Team chat is bound to ++u++ by default. (++y++ in earlier versions). If no one can see your messages, you may have this toggled on.
 
 #### JDT Upgrades
 Use a smithing table to apply them.
@@ -89,7 +93,7 @@ To find the items in the blacklist for both the Replicator Mk1 and the Replicato
 * `#replicator_1_blacklist` for Replicator Mk1
 * `#replicator_blacklist` for Replicator Mk2
 
-### Whitelisting on our Official Servers
+### Whitelisting on our [Official Servers](/AOE-Wiki/servers/official_servers/)
 
 1. Read the [#whitelisting](https://discord.com/channels/570630340075454474/726536593136943204) channel on our discord, in it's entirety.
 
@@ -109,7 +113,8 @@ To find the items in the blacklist for both the Replicator Mk1 and the Replicato
 
 ### Installing a Server
 
-See [Your Own Server](../servers/server.md)
+See [Your Own Server](../servers/server.md)  
+Or [Sharing with Friends](/AOE-Wiki/servers/sharing/)
 
 ### Need further help?
 
@@ -123,6 +128,8 @@ See [Your Own Server](../servers/server.md)
 * Github repo issues are also welcomed.
 
 ### Addendum: Permissions
+
+[FTBChunks](/AOE-Wiki/faqs/#want-to-force-load-chunks)
 
 * `ftbchunks.max_claimed` (chunk claim quota)
 * `command.back` (to enable or disable `/back`)

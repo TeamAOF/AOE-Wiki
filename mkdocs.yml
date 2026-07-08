@@ -91,9 +91,12 @@ copyright: Copyright &copy; 2025 Team AOE
 nav:
   - Home: index.md
   - Mod Packs:
-      - Craftoria: modpacks/Craftoria.md
+      - Craftoria:
+          - Craftoria FAQ: modpacks/Craftoria.md
       #      - FAQ: modpacks/Craftoria/faq.md
       #      - Hype: modpacks/Craftoria/media.md
+          - Gameplay FAQ: modpacks/Craftoria/general.md
+      
       - All of Fabric 7: modpacks/aof7.md
       - All of Fabric 6: modpacks/aof6.md
       - All of Fabric 5: modpacks/aof5.md
@@ -110,7 +113,7 @@ nav:
   - Trouble Shooting: crashing.md
   - Select Mods:
       - EMI: mods/emi.md
-      #    - Just Dire Things: mods/jdt.md
+  #    - Just Dire Things: mods/jdt.md
       - Ars Nouveau: mods/ars.md
       - Modern Industrialization: mods/mi.md
   - FAQs: faqs.md
